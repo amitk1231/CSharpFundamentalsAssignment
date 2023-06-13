@@ -1,0 +1,8 @@
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\bin\Debug\CSharpFundamentalsAssignment.exe.config
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\bin\Debug\CSharpFundamentalsAssignment.exe
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\bin\Debug\CSharpFundamentalsAssignment.pdb
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\obj\Debug\CSharpFundamentalsAssignment.csproj.AssemblyReference.cache
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\obj\Debug\CSharpFundamentalsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\obj\Debug\CSharpFundamentalsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\obj\Debug\CSharpFundamentalsAssignment.exe
+C:\Users\MAQ\Desktop\CSharpFundamentalsAssignment\CSharpFundamentalsAssignment\obj\Debug\CSharpFundamentalsAssignment.pdb
